@@ -4,4 +4,4 @@ Advanced SlideShow gadget for Windows Desktop based on built-in one.
 https://github.com/GChristensen/advanced-slideshow-gadget
 
 Details: http://sacredapi.blogspot.com/2011/04/advanced-slideshow-gadget.html
-Binary distribution: 
+Binary distribution: https://github.com/downloads/GChristensen/advanced-slideshow-gadget/AdvancedSlideShow.gadget
